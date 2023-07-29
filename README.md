@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [dipesh6264.github.io/portfolio_website/](dipesh6264.github.io/portfolio_website/)
+- 👨‍💻 All of my projects are available at <a href="dipesh6264.github.io/portfolio_website/">My Portfolio Website</a>
 
 - 📫 How to reach me **dipesh.patidar@iitgn.ac.in**
 
