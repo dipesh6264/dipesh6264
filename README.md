@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Dipesh Patidar</h1>
-<h3 align="center">A passionate Web developer from IIT Gandhinagar</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=996&t=st=1690610968~exp=1690611568~hmac=700817209eea5c9009f8bd326749143ed3e30e4bd779d9c1b516d9e14c12c25b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesh6264&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh6264" /> </p>
 
